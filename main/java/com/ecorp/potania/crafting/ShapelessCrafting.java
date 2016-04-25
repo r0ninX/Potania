@@ -13,7 +13,7 @@ public class ShapelessCrafting {
 	public static void register (){
 		
 		
-		GameRegistry.addShapelessRecipe(new ItemStack(PotaniaItemsRegistry.bud_grinded,2), new ItemStack (PotaniaItemsRegistry.bud),new ItemStack(PotaniaItemsRegistry.grinder, 1));
+		GameRegistry.addShapelessRecipe(new ItemStack(PotaniaItemsRegistry.bud_grinded,2), new ItemStack (PotaniaItemsRegistry.bud),new ItemStack(PotaniaItemsRegistry.grinder,1, OreDictionary.WILDCARD_VALUE));
 		
 	}
 	
