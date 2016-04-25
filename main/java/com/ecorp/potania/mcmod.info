@@ -1,0 +1,16 @@
+[
+{
+  "modid": "potania",
+  "name": "Potania",
+  "description": "Potania v0.3 alpha by ^StaNNi",
+  "version": "0.3",
+  "mcversion": "1.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["^StaNNi"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
