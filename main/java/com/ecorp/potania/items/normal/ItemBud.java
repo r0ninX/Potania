@@ -5,7 +5,7 @@ import com.ecorp.potania.items.PotaniaItem;
 public class ItemBud extends PotaniaItem {
 
 	public ItemBud() {
-		super("bud");
+		super("bud",1,64);
 	}
 
 }

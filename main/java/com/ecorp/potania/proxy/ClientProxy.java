@@ -15,6 +15,8 @@ public class ClientProxy extends CommonProxy {
 		registerItemModel(PotaniaItemsRegistry.bud);
 		registerItemModel(PotaniaItemsRegistry.bud_grinded);
 		registerItemModel(PotaniaItemsRegistry.grinder);
+		registerItemModel(PotaniaItemsRegistry.hemp_cloth);
+		registerItemModel(PotaniaItemsRegistry.hemp_fibre);
 	}
 	
 	public static void registerItemModel(PotaniaItem item){

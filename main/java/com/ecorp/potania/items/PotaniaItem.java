@@ -5,10 +5,12 @@ import net.minecraft.item.Item;
 
 public class PotaniaItem extends Item{
 	
-	public PotaniaItem(String name) {
+	public PotaniaItem(String name,int damage,int stacksize) {
 		setRegistryName(name);
 		setUnlocalizedName(name);
 		setCreativeTab(CreativeTabs.tabAllSearch);
+		setMaxDamage(damage);
+		setMaxStackSize(stacksize);
 		
 		
 	}
