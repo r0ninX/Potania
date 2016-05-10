@@ -1,9 +1,6 @@
 package com.ecorp.potania.items;
 
-import com.ecorp.potania.items.normal.ItemBud;
-import com.ecorp.potania.items.normal.ItemBudGrinded;
-import com.ecorp.potania.items.normal.ItemGrinder;
-import com.ecorp.potania.items.normal.ItemHempCloth;
+import com.ecorp.potania.items.normal.*;
 
 import net.minecraft.client.main.GameConfiguration;
 import net.minecraft.item.Item;
@@ -15,6 +12,7 @@ public class PotaniaItemsRegistry {
 	public static PotaniaItem bud_grinded = new ItemBudGrinded();
 	public static PotaniaItem grinder = new ItemGrinder();
 	public static PotaniaItem hemp_cloth = new ItemHempCloth();
+	public static PotaniaItem hemp_fibre = new ItemHempFibre();
 	
 	
 	public PotaniaItemsRegistry(){

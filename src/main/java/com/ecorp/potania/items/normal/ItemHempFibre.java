@@ -4,5 +4,5 @@ import com.ecorp.potania.items.PotaniaItem;
 
 public class ItemHempFibre extends PotaniaItem {
 
-    public ItemHempFibre() {super ("hemp_fibre",1,64;)}
+    public ItemHempFibre() {super ("hemp_fibre",1,64);}
 }
