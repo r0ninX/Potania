@@ -1,3 +1,15 @@
+/main
+/eclipse
+/build.gradle
+/CREDITS-fml.txt
+/forge-1.9-12.16.1.1887-changelog.txt
+/gradlew
+/gradlew.bat
+/LICENSE-fml.txt
+/Paulscode SoundSystem CodecIBXM License.txt
+/Paulscode IBXM Library License.txt
+/MinecraftForge-License.txt
+/MinecraftForge-Credits.txt
 # eclipse
 bin
 *.launch
